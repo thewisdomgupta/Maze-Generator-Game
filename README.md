@@ -59,4 +59,3 @@ The project Maze Generator is game based mini project on HTML, CSS, JavaScript. 
 
 ## Click For Preview
 <a href="https://thewisdomgupta.github.io/Maze-Generator-Game/">Play this Game<a>
-
